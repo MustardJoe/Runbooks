@@ -9,6 +9,7 @@ notes:
     Lists of Stuff for:
 
       VSCode extensions
+      Code snippets
       BrowserExtension
       Terminal Plugins
       Detailed list of NPM packages I like/often use
