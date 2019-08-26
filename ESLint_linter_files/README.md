@@ -1,0 +1,1 @@
+this fold contains ESLint linting files for various applications/uses.
