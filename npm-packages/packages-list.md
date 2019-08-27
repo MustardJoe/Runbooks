@@ -6,6 +6,12 @@ react-redux
   -dev dependency, so install with npm i -D @babel/node
   -then run file with npx babel-node ${fileName}
 
+react-router-dom
+  -for making SPAs
+  -cool package for 'routing' in react
+  -there are downsides to client side rendring(it,s slow, not mobile friendly), so don't forget this
+  -but overall it's pretty cool
+
 ------------PROJECT INIT PACKAGES----------------
 
   alchemy-be
