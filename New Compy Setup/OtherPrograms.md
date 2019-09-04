@@ -5,3 +5,9 @@ Here is a list of some other programs that are handy to have
 
 2. Robo3T
   -For visualizing MongoDB (maybe other databases?) databases
+
+3. Heroku CLI
+  -Command Line (terminal) Interface for easy Heroku deploys
+
+4. MongoDB
+  -lets me run a mongo D Base on my own compy for building backends
