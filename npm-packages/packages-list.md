@@ -13,7 +13,7 @@ react-router-dom
   -there are downsides to client side rendring(it,s slow, not mobile friendly), so don't forget this
   -but overall it's pretty cool
 
-------------PROJECT INIT PACKAGES----------------
+------------PROJECT INIT PACKAGES---------------- write my own of these
 
   alchemy-be
     package sets up JavaScript backend project with Node, Express, MongoDB/Mongoose and more
@@ -24,3 +24,5 @@ react-router-dom
     package sets up JavaScript front end project with React
     use => npm init alchemy-react ${projectFolderName}
     create GitHub repo (no readme) after
+
+    Last Modified on 9/13/2019 (friday the 13th)
