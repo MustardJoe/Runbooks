@@ -22,3 +22,6 @@ Here is a list of some other programs that are handy to have
 
 7. pgAdmin
   -like robo3t but for postgres - tool for helping use the db
+
+8. Homebrew
+  -program (app) to install codey files & apps (use homebrew to install PostgreSQL, for example)
