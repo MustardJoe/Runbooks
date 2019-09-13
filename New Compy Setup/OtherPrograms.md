@@ -25,3 +25,5 @@ Here is a list of some other programs that are handy to have
 
 8. Homebrew
   -program (app) to install codey files & apps (use homebrew to install PostgreSQL, for example)
+
+File last touched on 9/12/2019
