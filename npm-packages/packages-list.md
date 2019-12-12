@@ -25,4 +25,12 @@ react-router-dom
     use => npm init alchemy-react ${projectFolderName}
     create GitHub repo (no readme) after
 
-    Last Modified on 9/13/2019 (friday the 13th)
+----------Other Useful Packages----------------------
+
+  moment.js
+    used to manipulate dates (i use it on astroview)
+    use => npm i moment
+
+
+Last Modified 12/12/2019
+Once Modified on 9/13/2019 (friday the 13th)
