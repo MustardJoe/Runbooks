@@ -31,6 +31,11 @@ react-router-dom
     used to manipulate dates (i use it on astroview)
     use => npm i moment
 
+  morgan
+    Node Request (and res) Logging Middleware
+    github repo: https://github.com/expressjs/morgan
+    use => npm install morgan
 
-Last Modified 12/12/2019
+Last Modifies on 5/18/2020
+Once Modified 12/12/2019
 Once Modified on 9/13/2019 (friday the 13th)
