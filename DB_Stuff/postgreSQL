@@ -1,0 +1,11 @@
+
+PGAdmin is the PostgreSQL tool. it is very hard to use, not intuitive.
+
+<b>psql</b> <= the terminal command to get into the PostgreSQL CLI
+
+helpfull resources: 
+<ul>
+  <li>
+    Website i used for code bros Postgres work: https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8/
+  </li>
+</ul>
