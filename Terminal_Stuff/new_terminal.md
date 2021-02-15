@@ -18,3 +18,17 @@ if [ -z "$SSH_AUTH_SOCK" ] ; then
 fi
 ```
 
+## add to .bash_loggout
+
+```
+# when leaving the console clear the screen to increase privacy
+
+if [ "$SHLVL" = 1 ]; then
+    [ -x /usr/bin/clear_console ] && /usr/bin/clear_console -q
+fi
+
+# loggout from ssh session when terminal closes/ends
+if [ -n "$SSH_AUTH_SOCK" ] ; then
+  eval `/usr/bin/ssh-agent -k`
+fi
+```
